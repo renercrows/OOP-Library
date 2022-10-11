@@ -1,1 +1,1 @@
-# -OOP-Library
+# OOP-Library
