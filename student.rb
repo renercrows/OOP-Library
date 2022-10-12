@@ -12,7 +12,7 @@ class Student < Person
     "¯\(ツ)/¯"
   end
 
-  def Student
+  def classroom=(classroom)
     classroom.student.push(self) unless owner.animals.include?(self)
     @classroom = classroom
   end
