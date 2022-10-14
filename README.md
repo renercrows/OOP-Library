@@ -40,10 +40,6 @@ In the terminal, go to your file directory and run this command.
 $ git clone https://github.com/renercrows/OOP-Library.git
 ```
 
-### Usage
-
-Kindly modify the files as needed.
-
 ## Authors
 
 👤 **Maximiliano Ungredda**
