@@ -32,7 +32,7 @@ $ ruby --version && irb
 
 Clone the repository using the GitHub link provided below.
 
-### Install
+### Clone
 
 In the terminal, go to your file directory and run this command.
 
