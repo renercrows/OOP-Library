@@ -23,12 +23,7 @@ To get a local copy up and running follow these simple steps.
 - A web browser like Google Chrome.
 - A code editor like Visual Studio Code with Git and Ruby.
 
-You can check if Git is installed by running the following command in the terminal.
-```
-$ git --version
-```
-
-Likewise for Ruby installation.
+For Ruby installation.
 ```
 $ ruby --version && irb
 ```
