@@ -42,7 +42,7 @@ Clone the repository using the GitHub link provided below.
 In the terminal, go to your file directory and run this command.
 
 ```
-$ git clone https://github.com/renercrows/OOP-School-Library/tree/project1
+$ git clone https://github.com/renercrows/OOP-Library.git
 ```
 
 ### Usage
@@ -51,7 +51,7 @@ Kindly modify the files as needed.
 
 ## Authors
 
-👤 **Vitor Guedes Madeira**
+👤 **Maximiliano Ungredda**
 - GitHub: @renercrows
 - Twitter: @renercrows
 - LinkedIn: (www.linkedin.com/in/maximiliano-ungredda)
@@ -69,7 +69,6 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - [Microverse](https://www.microverse.org/)
-- Coding Partners
 - Code Reviewers
 
 ## 📝 License
