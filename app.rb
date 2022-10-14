@@ -51,7 +51,7 @@ class App
         print "#{index}) Title: \"#{book.title}\", Author: #{book.author}\n"
       end
     else
-      puts "No books here!"
+      puts 'No books here!'
     end
   end
 
@@ -68,7 +68,7 @@ class App
         puts "#{index}) Name: #{people.name}, ID: #{people.id}, Age: #{people.age}"
       end
     else
-      puts "No Student or Teachers here!"
+      puts 'No Student or Teachers here!'
     end
   end
 
@@ -157,9 +157,9 @@ class App
   end
 
   def list_all_rentals
-    print "ID of person: "
+    print 'ID of person: '
     id_of_rental = gets.chomp
-    puts "Rentals: "
+    puts 'Rentals: '
     list_rentals_by_person_id(id_of_rental.to_i)
   end
 
